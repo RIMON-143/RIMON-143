@@ -26,6 +26,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=42F716&width=435&lines=Thanks+for+visitors+%F0%9F%A5%B0;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=34F72A&random=false&width=435&lines=%F0%9D%9A%83%F0%9D%99%B7%F0%9D%99%B0%F0%9D%99%BD%F0%9D%99%BA+%F0%9D%9A%88%F0%9D%99%BE%F0%9D%9A%84)](https://git.io/typing-svg)
 
 
+[![Screenshot-20240107-064240.jpg](https://i.postimg.cc/QMFXNQBN/Screenshot-20240107-064240.jpg)](https://postimg.cc/94j3Jqts)
