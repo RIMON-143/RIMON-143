@@ -1,5 +1,6 @@
-### 𝙷𝙸 𝚃𝙷𝙴𝚁𝙴 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9000F7&random=false&width=435&lines=RIMON+AHMED)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71111&random=false&width=435&lines=%F0%9D%99%B7%F0%9D%99%B8+%F0%9D%9A%83%F0%9D%99%B7%F0%9D%99%B4%F0%9D%9A%81%F0%9D%99%B4+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0216F7&random=false&width=435&lines=%F0%9D%9A%81%F0%9D%99%B8%F0%9D%99%BC%F0%9D%99%BE%F0%9D%99%BD+%F0%9D%99%B0%F0%9D%99%B7%F0%9D%99%BC%F0%9D%99%B4%F0%9D%99%B3)](https://git.io/typing-svg)
 
 ## 𝚂𝙾𝙲𝙸𝙰𝙻 𝙻𝙸𝙽𝙺 :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/R1M0N.143) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsrimon.143) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@bdcybertech?si=3kOSu1WYozCQPKfF) 
